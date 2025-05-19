@@ -2,8 +2,7 @@
 
 ## Project Structure
 
----
-
+```
 RoFTCodeSum/
 │
 ├── FT/              # Fine-tuning baseline
@@ -15,6 +14,5 @@ RoFTCodeSum/
 ├── local_metric/    # Local evaluation metrics
 ├── data/            # Dataset
 └── README.md        # Project description
-
----
+```
 
