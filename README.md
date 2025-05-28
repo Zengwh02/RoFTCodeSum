@@ -13,6 +13,7 @@ RoFTCodeSum/
 ├── empirical/       # Empirical study scripts
 ├── local_metric/    # Local evaluation metrics
 ├── data/            # Dataset
+├── Fig/             # Figures
 └── README.md        # Project description
 ```
 
